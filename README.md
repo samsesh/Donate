@@ -1,4 +1,6 @@
 # Donate
+* [![Donation](https://img.shields.io/badge/reymit-donate-purple.svg)](https://reymit.ir/samsesh) :
+  https://reymit.ir/samsesh
 * [![Donation](https://img.shields.io/badge/PAYPAL-donate-blue.svg)](https://paypal.me/samsesh) :
   https://paypal.me/samsesh
 * [![subscribe](https://img.shields.io/badge/patreon-subscribe-red.svg)](https://www.patreon.com/SamSesh) :
